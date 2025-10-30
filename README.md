@@ -25,7 +25,7 @@ I recently built and deployed my very first static website using **Amazon S3** a
 
 ## 📖 Read the Full Guide
 
-👉 [Check out the full tutorial on Dev.to](https://dev.to/elmaur1/I-Built-my-First-static-website-using-Amazon-S3-and-infinityfree.)
+👉 Check out the full tutorial on Dev.to https://dev.to/elmaur1
 ---
  
 Let’s keep learning and building together 💪
